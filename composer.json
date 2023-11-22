@@ -14,5 +14,12 @@
         "psr-4": {
             "Nmsl\\Calculator\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nmsl\\Calculator\\CalculatorServiceProvider"
+            ]
+        }
     }
 }
