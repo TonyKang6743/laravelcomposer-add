@@ -1,6 +1,6 @@
 <?php
 
-namespace Nmsl\Calculator;
+namespace Nmslol\Calculator;
 
 class Calculator
 {

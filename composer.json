@@ -12,13 +12,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Nmsl\\Calculator\\": "src/"
+            "Nmslol\\Calculator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nmsl\\Calculator\\CalculatorServiceProvider"
+                "Nmslol\\Calculator\\CalculatorServiceProvider"
             ]
         }
     }
